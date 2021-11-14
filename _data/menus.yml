@@ -13,9 +13,6 @@ main:
     weight: 5
 
 footer:
-  - name: "Home"
-    url: "http://www.HardWayLab.com"
-    weight: 1
-  - name: "订阅"
+  - name: "免费订阅"
     url: "http://newsletter.hardwaylab.com/ "
     weight: 2
