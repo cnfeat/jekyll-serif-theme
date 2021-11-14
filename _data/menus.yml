@@ -2,8 +2,8 @@ main:
   - name: "产品"
     url: "/services/"
     weight: 2
-  - name: "团队"
-    url: "/team/"
+  - name: "博客"
+    url: "http://www.cnfeat.com"
     weight: 3
   - name: "简介"
     url: "/about/"
