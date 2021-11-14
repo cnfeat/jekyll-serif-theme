@@ -1,21 +1,21 @@
 main:
-  - name: "Services"
+  - name: "产品"
     url: "/services/"
     weight: 2
-  - name: "Team"
+  - name: "团队"
     url: "/team/"
     weight: 3
-  - name: "About"
+  - name: "简介"
     url: "/about/"
     weight: 4
-  - name: "Contact"
+  - name: "订阅"
     url: "/contact/"
     weight: 5
 
 footer:
   - name: "Home"
-    url: "/"
+    url: "http://www.HardWayLab.com"
     weight: 1
-  - name: "Contact"
-    url: "/contact/"
+  - name: "订阅"
+    url: "http://newsletter.hardwaylab.com/ "
     weight: 2
