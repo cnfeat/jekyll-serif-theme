@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "世上无难事",
+    "description": "事皆有始，少有能终。世上无难事，只怕笨方法。",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "打赢人生持久战",
+    "description": "先致力不败，而求后胜；先守正，而后出奇。",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "享受做成难事的快乐",
+    "description": "专注于有趣的问题，发现生命真正的动机。",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
