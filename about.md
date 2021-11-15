@@ -15,7 +15,6 @@ bodyClass: page-about
 
 
 免费订阅入口：[http://newsletter.hardwaylab.com/](http://newsletter.hardwaylab.com/)
-![邮件订阅图片.png](https://cdn.nlark.com/yuque/0/2021/png/87881/1625625832239-c5400deb-e5f0-4bff-979d-89a5d8bbcebc.png#height=225&id=pQwhU&margin=%5Bobject%20Object%5D&name=%E9%82%AE%E4%BB%B6%E8%AE%A2%E9%98%85%E5%9B%BE%E7%89%87.png&originHeight=1800&originWidth=3200&originalType=binary&ratio=1&size=488784&status=done&style=none&width=400)
 
 
 ## 为什么写？
@@ -146,4 +145,4 @@ Dickie Bush 说过：互联网奖赏的是 B+ 的内容配合 A+ 的坚持。你
 ​
 
 不在标题上做小聪明，而是在内容上做狠功夫，在每篇文章创作之前问问自己，写的东西是否真的有用，专注与读者建立信任，读者会知道，你写的就是好内容。这样，假使我用「善未易明，理未易察」这四个字做标题，我也不用担心没有人看。∎
-### 
+

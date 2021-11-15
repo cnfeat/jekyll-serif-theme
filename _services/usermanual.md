@@ -7,4 +7,4 @@ weight: 4
 
 把我当做工具，可能会发现我能提供到技能与价值，帮助你解决问题。
 
-最新版请点：https://www.yuque.com/hardwaylab/hbcnfeat
+最新版请点：[陈素封使用说明书 V3.5 · 语雀](https://www.yuque.com/hardwaylab/hbcnfeat/fpu2rg)

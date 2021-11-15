@@ -10,4 +10,4 @@ layout: service
 这可能是中文互联网中讨论卡片创作工具最有实践性的电子书。
 
 
-详细请看：https://cie.h5.xeknow.com/s/2iNUXb
+详细请看：[卡片创作工具指南](https://appmcfwb1wy8464.h5.xiaoeknow.com/v1/goods/goods_detail/p_618b6bf5e4b09b5fe0b1d33c?type=3)
