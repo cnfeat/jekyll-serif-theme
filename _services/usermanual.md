@@ -5,4 +5,6 @@ featured: true
 weight: 4
 ---
 
+把我当做工具，可能会发现我能提供到技能与价值，帮助你解决问题。
+
 最新版请点：https://www.yuque.com/hardwaylab/hbcnfeat
