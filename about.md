@@ -11,7 +11,7 @@ bodyClass: page-about
 笨方法实验室 newsletter，一份致力「世上无难事」的无限原则清单。
 
 
-已有 430+ 人订阅，每周一和周四出刊，发送[笨方法](https://www.yuque.com/hardwaylab/book)的践行思考与故事。
+每周一和周四出刊，发送[笨方法](https://www.yuque.com/hardwaylab/book)的践行思考与故事。
 
 
 免费订阅入口：[http://newsletter.hardwaylab.com/](http://newsletter.hardwaylab.com/)
