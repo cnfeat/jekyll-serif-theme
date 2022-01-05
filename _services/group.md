@@ -7,4 +7,4 @@ weight: 2
 
 扫码添加微信，备注「世上无难事」，加入笨方法文化手册的践行微信群。
 
-![](https://s3.bmp.ovh/imgs/2021/11/0672275063021602.jpg)
+https://www.yuque.com/hardwaylab/hbcnfeat/spvcgu

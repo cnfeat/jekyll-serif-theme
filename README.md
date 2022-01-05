@@ -6,9 +6,9 @@ https://hardwaylab.com/ 官网
 
 
 
-人数修订：index.md
-
-
+订阅人数：index.md
+备案修订：_data\seo.yml
+主页板块：_services
 
 
 2021-11-15 创建
