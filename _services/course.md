@@ -6,6 +6,6 @@ weight: 3
 layout: service
 ---
 
-《笨方法学写作》课程是一本写作练习册，包含52个科学写作练习，让你彻底学会写作。
+《笨方法学写作》课程是一本写作练习册，包含42个写作练习，让你彻底学会写作。
 
-详细请查看：[课程大纲 · 语雀](https://www.yuque.com/hardwaylab/cardstyle/sss9hq)
+详细请查看：[课程简介](https://www.yuque.com/hardwaylab/cardstyle/sss9hq)
