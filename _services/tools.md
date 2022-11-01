@@ -7,7 +7,7 @@ layout: service
 ---
 
 
-实践 7+ 年，累积 9+ 万字，一经购买，永久更新。。
+实践 7+ 年，累积 10+ 万字，一次购买，永久更新。
 
 
 详细请看：[个人生产力系统指南](https://www.yuque.com/hardwaylab/book/gizm18)
