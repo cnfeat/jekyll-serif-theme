@@ -11,6 +11,8 @@ https://hardwaylab.com/ 官网
 主页板块：_services
 修订板块顺序：修订_services md 中时间
 
+修改订阅地址：layout> home
+
 
 2021-11-15 创建
 

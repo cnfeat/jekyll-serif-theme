@@ -14,7 +14,7 @@ bodyClass: page-about
 每周一和周四出刊，发送[笨方法](https://www.yuque.com/hardwaylab/book)的践行思考与故事。
 
 
-免费订阅入口：[http://newsletter.hardwaylab.com/](http://newsletter.hardwaylab.com/)
+免费订阅入口：https://hardwaylab.substack.com/
 
 
 ## 为什么写？
