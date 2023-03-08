@@ -12,6 +12,10 @@ https://hardwaylab.com/ 官网
 修订板块顺序：修订_services md 中时间
 
 修改订阅地址：layout> home
+data\contact.yml
+_data\menus.yml
+
+https://hardwaylab.substack.com
 
 
 2021-11-15 创建
